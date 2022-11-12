@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Next, Three, ASP.NET**
 
-- 📫 How to reach me **bekalutilahun39@gmail.com**
+- 📫 How to reach me **mailbekalu@gmail.com**
 
 - ⚡ Fun fact **I am a Civil Engineer too.**
 
